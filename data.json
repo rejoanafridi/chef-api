@@ -1,0 +1,100 @@
+[
+	{
+		"id": "1",
+		"index": 0,
+		"name": "Joel Robuchon",
+		"star": "32",
+		"popular_recpie": ["LE CAVIAR", "LA CAILLE", "LA LANGOUSTINE"],
+		"price": 100000,
+          "location": "New Yourk",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2018/08/Joel-Robuchon.jpg"
+	},
+	{
+		"id": "2",
+		"index": 1,
+		"name": "Alain Ducasse",
+		"star": "21",
+		"popular_recpie": ["Chocolate mousse", "CRÈPES SUZETTE", "QUICHE LORRAINE"],
+		"price": 900000,
+          "location": "France",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2018/08/Alain-Ducasse.jpg"
+	},
+	{
+		"id": "3",
+		"index": 2,
+		"name": "Gordon Ramsay ",
+		"star": "16",
+		"popular_recpie": ["Yorkshire puddings.", "scrambled eggs", "bsk burger"],
+		"price": 850000,
+          "location": "British",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2018/08/Gordon-Ramsay.jpg"
+	},
+	{
+		"id": "4",
+		"index": 3,
+		"name": "Pierre Gagnaire",
+		"star": "14",
+		"popular_recpie": [
+			"Warm Mushroom Salad",
+			"Beet-and-Orange-Infused ",
+			"Foie Gras Soup "
+		],
+		"price": 820000,
+          "location": "Apinac, France",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2021/07/Pierre-Gagnaire.jpg"
+	},
+	{
+		"id": "5",
+		"index": 4,
+		"name": "Martin Berasategui ",
+		"star": "12",
+		"popular_recpie": [
+			"Basque cuisine",
+			" meatballs ",
+			"marmitako (tuna stew)"
+		],
+		"price": 760000,
+		"location": "Donostia-San Sebastian, Spain",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2018/08/Martin-Berasategui.jpg"
+	},
+	{
+		"id": "6",
+		"index": 5,
+		"name": "Yannick Alleno",
+		"star": "10",
+		"popular_recpie": ["modern cuisine"],
+		"price": 720000,
+		"location": "Puteaux, France",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2021/07/Yannick-Alleno.jpg"
+	},
+	{
+		"id": "7",
+		"index": 6,
+		"name": "Anne Sophie Pic",
+		"star": "8",
+		"popular_recpie": ["Berlingots"],
+		"price": 700000,
+		"location": "Switzerland",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2019/09/anne-sophie-pic.jpg"
+	},
+	{
+		"id": "8",
+		"index": 7,
+		"name": "Carme Ruscalleda",
+		"star": "7",
+		"popular_recpie": [" traditional Catalan"],
+		"price": 600000,
+		"location": "Barcelona",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2018/08/Carme-Ruscalleda.jpg"
+	},
+	{
+		"id": "9",
+		"index": 8,
+		"name": "Andreas Caminada",
+		"star": "7",
+		"popular_recpie": ["bisque-like fish soup"],
+		"price": 500000,
+		"location": "Singapore",
+		"picture": "https://www.boneta.ca/wp-content/uploads/2021/07/Andreas-Caminada.jpg"
+	}
+]
